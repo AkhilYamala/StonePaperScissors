@@ -1,0 +1,2 @@
+# StonePaperScissors
+An interactive game
